@@ -21,3 +21,14 @@
 - [ ] 引用（blockquote) が使える
 - [ ] 打ち消し線 (stroke) が使え~~ない~~る
 - [ ] インラインコード (`**太字**` など）が使える
+
+# Heading
+## Bullet
+* list1
+ * list1-1
+ * list1-2
+* list2
+
+##*Italic*
+
+##**Bold**
