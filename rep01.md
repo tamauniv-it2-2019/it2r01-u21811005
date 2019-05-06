@@ -23,7 +23,7 @@
 - [ ] インラインコード (`**太字**` など）が使える
 
 # Heading
-## Bullet
+## itemization
 * list1
  * list1-1
  * list1-2
